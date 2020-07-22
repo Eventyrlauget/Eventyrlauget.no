@@ -1,3 +1,3 @@
 # Eventyrlauget.no
-siden til Eventyrlauget
+Siden til Eventyrlauget
 ![Oss](http://cusick.no/img/eventyr.jpg)
